@@ -80,6 +80,7 @@ São adotadas medidas físicas, eletrônicas e procedimentais adequadas para pro
 
 ---
 
+
 ## Alterações
 
 Esta Política de Privacidade pode ser atualizada periodicamente por qualquer motivo.  
@@ -87,6 +88,20 @@ A Prestadora de Serviço notificará as alterações publicando a nova versão n
 Recomenda-se consultar esta Política regularmente, pois o uso contínuo do Aplicativo após alterações será considerado aceitação das mesmas.
 
 Esta Política de Privacidade é **vigente a partir de 13 de novembro de 2025.**
+
+---
+
+## Informações Adicionais
+
+- Este aplicativo não representa entidades governamentais.  
+- Não é possível fazer apostas ou ganhar prêmios utilizando este aplicativo.  
+- Este aplicativo não tem vínculo com empresas de loteria.  
+- Este aplicativo é uma produção independente com o intuito de exibir apenas os resultados dos sorteios.  
+- **Fonte dos dados exibidos no aplicativo:**  
+  [https://loterias.caixa.gov.br/Paginas/default.aspx](https://loterias.caixa.gov.br/Paginas/default.aspx)  
+- Este aplicativo utiliza dados públicos dos resultados das loterias da Caixa Econômica Federal, conforme garantido pela **Lei de Acesso à Informação (Lei 12.527/2011)**. Esses resultados são informações públicas e podem ser livremente compartilhados.  
+- Este aplicativo não utiliza marcas ou logotipos protegidos.  
+- Este aplicativo não possui afiliação com a Caixa Econômica Federal.
 
 ---
 
