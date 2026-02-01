@@ -1,0 +1,120 @@
+# Termos e Condições de Uso
+
+Estes Termos e Condições aplicam-se ao aplicativo **Loterias IA** (doravante denominado **“Aplicativo”**) para dispositivos móveis, criado pela **Quantingo** (doravante denominada **“Prestadora de Serviço”**), oferecido como um serviço **Freemium**.
+
+Ao baixar ou utilizar o Aplicativo, você concorda automaticamente com os seguintes termos.  
+É fortemente recomendado que leia atentamente e compreenda estes Termos e Condições antes de utilizá-lo.
+
+---
+
+## Uso e Propriedade Intelectual
+
+A cópia, modificação ou distribuição não autorizada do Aplicativo, de qualquer parte dele ou de suas marcas registradas é **estritamente proibida**.  
+Não é permitido extrair o código-fonte do Aplicativo, traduzi-lo para outros idiomas ou criar versões derivadas.  
+
+Todas as marcas registradas, direitos autorais, direitos sobre banco de dados e demais direitos de propriedade intelectual relacionados ao Aplicativo permanecem de propriedade exclusiva da **Quantingo**.
+
+---
+
+## Modificações e Cobranças
+
+A Prestadora de Serviço se compromete em manter o Aplicativo o mais útil e eficiente possível.  
+Entretanto, reserva-se o direito de modificar o Aplicativo ou cobrar pelos seus serviços a qualquer momento e por qualquer motivo.  
+Caso haja qualquer cobrança pelo uso do Aplicativo ou de seus recursos, isso será devidamente informado ao usuário de forma clara e antecipada.
+
+---
+
+## Segurança do Dispositivo e Dados Pessoais
+
+O Aplicativo pode armazenar e processar dados pessoais fornecidos por você, com o objetivo de oferecer os serviços descritos.  
+É de sua responsabilidade manter a segurança do seu dispositivo e o controle de acesso ao Aplicativo.
+
+A Prestadora de Serviço **não recomenda** a prática de *jailbreak* ou *root* em seu celular, pois essas ações removem restrições do sistema operacional e podem expor o dispositivo a softwares maliciosos, vírus, falhas de segurança e mau funcionamento do Aplicativo.
+
+---
+
+## Serviços de Terceiros
+
+O Aplicativo utiliza serviços de terceiros que possuem seus próprios Termos e Condições.  
+Você pode consultá-los nos links abaixo:
+
+- [Google Play Services](https://policies.google.com/terms)  
+- [AdMob](https://developers.google.com/admob/terms)  
+- [Google Analytics for Firebase](https://www.google.com/analytics/terms/)  
+- [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+
+A Prestadora de Serviço **não se responsabiliza** pelos termos, políticas ou funcionamento desses serviços de terceiros.
+
+---
+
+## Conectividade e Responsabilidade de Uso
+
+Algumas funcionalidades do Aplicativo exigem uma **conexão ativa com a Internet**, seja via Wi-Fi ou rede móvel.  
+A Prestadora de Serviço não se responsabiliza caso o Aplicativo não funcione plenamente por falta de conexão ou por consumo total do seu pacote de dados.
+
+Ao utilizar o Aplicativo fora de uma rede Wi-Fi, esteja ciente de que os **custos de dados móveis** aplicáveis são de responsabilidade do usuário.  
+Isso inclui tarifas de *roaming* quando o Aplicativo é utilizado fora do seu país de origem.  
+Ao usar o Aplicativo, você aceita integralmente esses encargos.
+
+Se o dispositivo utilizado não estiver em seu nome, presume-se que você obteve autorização do titular da conta para utilizar o Aplicativo.
+
+Da mesma forma, é responsabilidade do usuário garantir que o dispositivo esteja carregado.  
+A Prestadora de Serviço não se responsabiliza se o Aplicativo deixar de funcionar por falta de energia no aparelho.
+
+---
+
+## Limitação de Responsabilidade
+
+Embora a Prestadora de Serviço se esforce para manter o Aplicativo atualizado e funcional, parte das informações apresentadas pode depender de dados fornecidos por **terceiros**.  
+Assim, a Quantingo **não se responsabiliza por perdas ou danos diretos ou indiretos** resultantes da utilização das informações ou funcionalidades do Aplicativo.
+
+---
+
+## Informações Adicionais
+
+- Este aplicativo não representa entidades governamentais.  
+- Não é possível fazer apostas ou ganhar prêmios utilizando este aplicativo.  
+- Este aplicativo não tem vínculo com empresas de loteria.  
+- Este aplicativo é uma produção independente com o intuito de exibir apenas os resultados dos sorteios.  
+- **Fonte dos dados exibidos no aplicativo:**  
+  [https://loterias.caixa.gov.br/Paginas/default.aspx](https://loterias.caixa.gov.br/Paginas/default.aspx)  
+- Este aplicativo utiliza dados públicos dos resultados das loterias da Caixa Econômica Federal, conforme garantido pela **Lei de Acesso à Informação (Lei 12.527/2011)**. Esses resultados são informações públicas e podem ser livremente compartilhados.  
+- Este aplicativo não utiliza marcas ou logotipos protegidos.  
+- Este aplicativo não possui afiliação com a Caixa Econômica Federal.
+
+---
+
+## Atualizações e Encerramento
+
+A Prestadora de Serviço poderá atualizar o Aplicativo a qualquer momento.  
+As versões do sistema operacional podem mudar, e será sua responsabilidade manter o Aplicativo atualizado para garantir o funcionamento adequado.
+
+A Quantingo **não garante compatibilidade permanente** do Aplicativo com todas as versões de sistemas operacionais ou dispositivos móveis.  
+Ao utilizar o Aplicativo, você concorda em aceitar e instalar as atualizações quando disponibilizadas.
+
+A Prestadora de Serviço poderá também, a seu critério, **interromper o fornecimento do Aplicativo** e encerrar seu uso a qualquer momento, sem aviso prévio.  
+Em caso de encerramento, os direitos e licenças concedidos nestes Termos cessarão imediatamente, e você deverá interromper o uso e excluir o Aplicativo de seu dispositivo.
+
+---
+
+## Alterações a Estes Termos e Condições
+
+A Prestadora de Serviço poderá atualizar estes Termos e Condições periodicamente.  
+Recomenda-se que o usuário revise esta página regularmente para acompanhar eventuais mudanças.
+
+As alterações entrarão em vigor imediatamente após a publicação da nova versão nesta página.
+
+Estes Termos e Condições são **válidos a partir de 13 de novembro de 2025.**
+
+---
+
+## Contato
+
+Caso tenha dúvidas, sugestões ou solicitações relacionadas a estes Termos e Condições, entre em contato:
+
+📩 **E-mail:** contact@quantingo.com  
+🏢 **Responsável:** Quantingo
+
+---
+
+*(Esta página de Termos e Condições foi adaptada a partir de modelo do [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/).)*
